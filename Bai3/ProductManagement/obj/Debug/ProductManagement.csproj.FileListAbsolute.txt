@@ -1,0 +1,26 @@
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.frmProdManagement.resources
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\EntityFramework.dll
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\EntityFramework.xml
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.CopyComplete
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\bin\Debug\ProductManagement.exe.config
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\bin\Debug\ProductManagement.exe
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\bin\Debug\ProductManagement.pdb
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\bin\Debug\EntityFramework.dll
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\bin\Debug\EntityFramework.xml
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\obj\Debug\ProductManagement.csproj.AssemblyReference.cache
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\obj\Debug\ProductManagement.frmProdManagement.resources
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\obj\Debug\ProductM.8086A758.Up2Date
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\obj\Debug\ProductManagement.exe
+D:\development\projects_dotnet\SE310.P11\Bai3\ProductManagement\obj\Debug\ProductManagement.pdb
